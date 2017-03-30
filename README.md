@@ -6,7 +6,7 @@ Zadanie realizowane było w 2-3 osobowych zespołach programistycznych + osoba o
 Konkurs jest wyzwaniem programistycznym ze względu na bardzo krótki czas na realizację projektu:
 sukces wymaga umiejętności skutecznego planowania kodu, pracy w zespole oraz umiejętności programowania w paradygmacie obiektowym.
 
-Kolejność gier od najstarszej do najnowszej:
+Kolejność tworzenia gier od najstarszej do najnowszej:
 1. Macaroni Wedding
 2. Silent Cave
 3. Kolejka
