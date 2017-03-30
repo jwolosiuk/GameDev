@@ -1,4 +1,4 @@
-Gra powstała na 36-godzinnym Warsaw Film School Game Jam 2016 w zespole: Stanisław Borkowski, Jeremiasz Wołosiuk, Grzegorz Sołdatowski.
+Gra powstała na 36-godzinnym Warsaw Film School Game Jam 2016 w zespole: Stanisław Borkowski, Jeremiasz Wołosiuk, Grzegorz Sołdatowski, Zula P.
 
 Temat: Miłość
 
