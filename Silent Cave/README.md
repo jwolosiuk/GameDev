@@ -4,7 +4,11 @@ Temat: Fale
 
 Interpretacja tematu: Endless runner ze sterowaniem za pomocą głosu
 
+Link: http://globalgamejam.org/2017/games/silent-cave-0
+
+
 Utworzone skrypty są w większości pracą wspólną bez wyróżnionego autora,
-ale w początkowych etapach występuje widoczny podział pracy, gdzie mi przypadło:
+ale na początkowym etapie występuje widoczny podział obowiązków, gdzie mi przypadło:
+
 generowanie mapy na podstawie dźwięku,
 generowanie pojawiających się przeszkód.
