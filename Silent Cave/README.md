@@ -8,7 +8,7 @@ Link: http://globalgamejam.org/2017/games/silent-cave-0
 
 
 Utworzone skrypty są w większości pracą wspólną bez wyróżnionego autora,
-ale na początkowym etapie występuje widoczny podział obowiązków, na którym odpowiadałem za:
+ale na początkowym etapie występuje widoczny podział obowiązków, gdzie odpowiadałem za:
 
 generowanie mapy na podstawie dźwięku,
 generowanie pojawiających się przeszkód.
