@@ -4,7 +4,7 @@ Temat: Miś
 
 Interpretacja tematu: Symulator kolejki do sklepu
 
-Rozwiązanie: System okresowo (bądź z pewną losowością) występujących Occurrence'ów, które determiniują sytuację, następstwo pozytywnej bądź negatywnej reakcji na sytuację oraz zachowanie gry w trakcie jej trwania.
+Rozwiązanie: System okresowo (bądź z pewną losowością) występujących Occurrence'ów, które determiniują sytuację, pozytywny bądź negatywny efekt na reakcję gracza oraz zachowanie gry w trakcie występowania sytuacji.
 
 Utworzone skrypty są w większości pracą wspólną bez wyróżnionego autora,
 ale na początkowym etapie występuje widoczny podział obowiązków, na którym odpowiadałem za:
